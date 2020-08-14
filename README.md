@@ -12,7 +12,7 @@
 ## Included
 
 * Realtek semiconductor Corp. RTL815x GbE USB adapter driver
-* Microtech LAN7800 GbE USB adapter driver
+* Microchip LAN78xx GbE USB adapter driver
 * Cypress GX3 GbE USB adapter driver
 * RaphKay's USB-C 3.0 driver with rockchip USB VID:PID as 0x2207:0x0009.
 
