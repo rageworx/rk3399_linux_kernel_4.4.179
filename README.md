@@ -1,6 +1,6 @@
 # Embedded Linux Kernel version 4.4.179 for RK3399
 
-* A partial branch cloned kernel source from https://github.com/rockchip-linux/kernel/tree/stable-4.4-rk3399-linux-v2.1x
+* A partial branch cloned kernel source from [here](https://github.com/rockchip-linux/kernel/tree/stable-4.4-rk3399-linux-v2.1x)
 * Tuned for embedded linux ( not Android ), aarch64.
 
 ## Tested RK3399 boards
@@ -22,4 +22,4 @@
 
 ## See more details about kernel
 
-* README
+* [README](https://github.com/rageworx/rk3399_linux_kernel_4.4.179/blob/master/README)
