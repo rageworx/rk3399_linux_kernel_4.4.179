@@ -60,6 +60,9 @@
 include/config
 include/generated
 
+# Certs
+certs/*
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
