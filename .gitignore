@@ -74,5 +74,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 .config
+.config.old
 .tmp_vmlinux*
 .version
