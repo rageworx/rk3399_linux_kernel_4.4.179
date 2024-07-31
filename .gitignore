@@ -64,6 +64,7 @@ include/generated
 certs/*
 
 # Kernel Module Compile Results
+ko/
 *.mod*
 *.cmd
 *.builtin
