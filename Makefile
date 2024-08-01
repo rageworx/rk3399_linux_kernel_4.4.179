@@ -1,7 +1,7 @@
 VERSION = 4
 PATCHLEVEL = 4
 SUBLEVEL = 179
-EXTRAVERSION = raphK-rel
+EXTRAVERSION = -raphK-rel
 NAME = Blurry Fish Butt
 
 # *DOCUMENTATION*
