@@ -37,7 +37,6 @@ deps_config := \
 	drivers/vhost/Kconfig \
 	virt/kvm/Kconfig \
 	arch/arm64/kvm/Kconfig \
-	fs/exfat/Kconfig \
 	fs/dlm/Kconfig \
 	fs/nls/Kconfig \
 	fs/9p/Kconfig \
@@ -81,6 +80,7 @@ deps_config := \
 	fs/kernfs/Kconfig \
 	fs/proc/Kconfig \
 	fs/ntfs/Kconfig \
+	fs/exfat/Kconfig \
 	fs/fat/Kconfig \
 	fs/udf/Kconfig \
 	fs/isofs/Kconfig \

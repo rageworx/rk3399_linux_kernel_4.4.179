@@ -2,7 +2,8 @@
 #
 # Makefile for the linux exFAT filesystem support.
 #
+
 obj-$(CONFIG_EXFAT_FS) += exfat.o
 
-exfat-y	:= inode.o namei.o dir.o super.o fatent.o cache.o nls.o misc.o \
-	   file.o balloc.o
+exfat-y	:= blkdev.o  core.o        extent.o  misc.o  super.o \
+		   cache.o   core_exfat.o  fatent.o  nls.o   xattr.o
